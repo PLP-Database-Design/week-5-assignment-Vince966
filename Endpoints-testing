@@ -1,0 +1,4 @@
+Retrieve All Patients: Navigate to http://localhost:3000/patients
+Retrieve All Providers: Navigate to http://localhost:3000/providers
+Filter Patients by First Name: Navigate to http://localhost:3000/patients/search?first_name=John
+Retrieve Providers by Specialty: Navigate to http://localhost:3000/providers/specialty?specialty=Cardiology
